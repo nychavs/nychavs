@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m @nychavs but you can call me nay :)
 
+i started programming this year, so be patient with my mistakes :)
+
 <div align="center">
   <a href="https://github.com/nychavs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nychavs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
