@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/nychavs/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-        badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/naiury-chaves?trk=public_profile_browsemap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ## haha i dont a lot of commits yet
+  ## haha i dont have a lot of commits yet
 <div align="center">
   
   ![snake gif](https://github.com/nychavs/nychavs/blob/output/github-contribution-grid-snake.gif)
