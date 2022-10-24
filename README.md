@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @nychavs but you can call me nay :)
 
-i started programming this year, so be patient with my mistakes :)
 
 <div align="center">
   <a href="https://github.com/nychavs">
