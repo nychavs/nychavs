@@ -19,5 +19,7 @@
   <img align="center" alt="django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />            
 </div>
 
-![snake gif](https://github.com/nychavs/nychavs/blob/output/github-contribution-grid-snake.gif)
+## haha i dont a lot of commits yet
+ ![snake gif](https://github.com/nychavs/nychavs/blob/output/github-contribution-grid-snake.gif)
+
 
