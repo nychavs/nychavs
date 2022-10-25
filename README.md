@@ -30,8 +30,8 @@
 
   ## haha i dont have a lot of commits yet
 <div align="center">
-  
-  ![snake gif](https://github.com/nychavs/nychavs/blob/output/github-contribution-grid-snake.gif)
+ 
+  ![Snake animation](https://github.com/nychavs/nychavs/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
