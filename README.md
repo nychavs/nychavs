@@ -20,6 +20,9 @@
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />     
   <img align="center" alt="java"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="nodejs"   height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
           
   <img align="right" alt="euuu" height="150" src="https://github.com/nychavs/nychavs/blob/main/ezgif.com-gif-maker.gif"/>
 </div>
