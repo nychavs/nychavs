@@ -22,12 +22,11 @@
   <img align="center" alt="java"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="nodejs"   height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-              
-  <img align="right" alt="euuu" height="150" src="https://github.com/nychavs/nychavs/blob/main/ezgif.com-gif-maker.gif"/>
-</div>
+ </div>
 
 ##  
   <a href="https://www.instagram.com/nychavs/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://br.linkedin.com/in/naiury-chaves?trk=public_profile_browsemap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ## haha i dont have a lot of commits yet
 <div align="center">
